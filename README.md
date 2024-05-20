@@ -1,0 +1,1 @@
+# WordPress-apline-frontend-plugin-template
