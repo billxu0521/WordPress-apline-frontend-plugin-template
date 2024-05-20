@@ -1,0 +1,19 @@
+{
+    "name": "billxu/one-sign-per-day",
+    "description": "one-sign-per-day",
+    "require": {
+        "a7/autoload": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Billxu\\OneSignPerDay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "billxu",
+            "email": "billxu0521@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
